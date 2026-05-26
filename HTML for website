@@ -1,0 +1,71 @@
+<nav>
+  <h1>True Climate</h1>
+  <ul class="navigation">
+    <li><a href="#mission" class="nav-link">Mission</a></li>
+    <li><a href="#analysis" class="nav-link">Sector Analysis</a></li>
+    <li><a href="impact" class="nav-link">Calculate Impact </a></li>
+  </ul>
+  <button class="burger-menu" id="burger-menu">
+    <ion-icon class="bars" name="menu-outline"></ion-icon>
+  </button>
+</nav>
+
+<section class="mission" id="mission">
+  <div class="mission-container">
+    <div class="mission-text">
+      <h2 class="mission-title">PROJECT SUMMARY</h2>
+      <p class="mission-text">
+        TrueClimate is an alternative approach to helping the world understand climate change, by translating large and complex environmental datasets into more comprehendable visualizations. This is done by combining user-entered data with real-world datasets from API-sourced data, and then comparing personal impact to the industrial sector of humanity. The goal of this website is to reduce confusion, misunderstanding, and self-guilt by presenting accurate and reliably sourced data in an accessable and engaging format. The purpose of this website is not to inform its users on WHAT to do about climate change, rather it is more of a call for something to be DONE about it.
+      </p>
+    </div>
+  
+    <img
+      src="https://i.ebayimg.com/images/g/MgwAAOSwMTRmiteJ/s-l1200.jpg"
+      alt="mission art"
+      loading="lazy"
+      class="mission-art"
+    />
+  </div>
+</section>
+
+<section class="analysis" id="analysis">
+  <div class="division-bar" id="db"></div>  
+  <div class="analysis-container">
+    <div class="analysis-text-container">
+      <div class="analysis-text">
+        <h2 class="analysis-title">ANALYSIS : "sector name"</h2>
+        <p class="analysis-text">
+          Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+        </p>
+      </div>
+      <div class="analysis-buttons">
+        <button class="back-button">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/45/Right-facing-Arrow-icon.jpg"
+            alt="previous"
+            class="back-button-img">
+          </img>
+        </button>
+        <button class="forward-button">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/45/Right-facing-Arrow-icon.jpg"
+            alt="next"
+            class="forward-button-img"
+        </button>
+      </div>
+    </div>
+    <div class="analysis-display-region">
+      <img
+        src="https://cdn1.byjus.com/wp-content/uploads/2021/03/line-graph.png"
+        alt="analysis graph"
+        loading="late"
+        class="analysis graph">
+      </img>
+    </div>
+  </div>
+  <div class="division-bar" id="db"></div>
+</section>
+      
+<section class="impact" id="impact">
+  div
+</section>
